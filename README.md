@@ -8,3 +8,6 @@ A smoke detector is a device designed to identify the presence of smoke, which s
 
 ## Result
 <img width="767" alt="스크린샷 2024-02-14 오후 12 07 01" src="https://github.com/akpe12/SMOKE/assets/77143331/b3490f7a-8ea1-4909-a099-afeb3719b229">
+
+## Experiment paper
+[pdf](https://drive.google.com/file/d/1ktO89uCV5cDpU8pmBWV4XQUcuWhXYkRT/view?usp=sharing)
